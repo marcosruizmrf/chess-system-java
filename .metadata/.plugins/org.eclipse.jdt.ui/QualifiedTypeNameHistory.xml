@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="boardgame.Board"/>
+    <fullyQualifiedTypeName name="boardgame.Piece"/>
+    <fullyQualifiedTypeName name="chess.ChessMatch"/>
+    <fullyQualifiedTypeName name="chess.ChessPiece"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.Position"/>
+    <fullyQualifiedTypeName name="boardgame.Position"/>
+    <fullyQualifiedTypeName name="chess.Color"/>
+</qualifiedTypeNameHistroy>
