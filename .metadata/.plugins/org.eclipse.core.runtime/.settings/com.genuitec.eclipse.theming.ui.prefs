@@ -1,11 +1,11 @@
-applyBackground=true
-configurationInstallLocation=/C\:/Users/marco/Downloads/sts-4.10.0.RELEASE/
-ct.upsell.display.after=1622827423071
+applyBackground=false
+approved.defs.file.last.changed.time=1624986146000
+configurationInstallLocation=/C\:/temp/Projetos/Projects_Eclipse/eclipse/java-2020-12/eclipse/
+ct.upsell.display.after=1627517417165
 eclipse.preferences.version=1
 iconcolormode=primary
-includeThemingInOomph=false
-last.download.attempt.time=1622682068046
-lastConfiguration=1622812391396
+last.download.attempt.time=1626912624868
+lastConfiguration=1626989878005
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray
